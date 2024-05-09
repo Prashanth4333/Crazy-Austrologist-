@@ -44,3 +44,4 @@ else if (g>25&&g<=30){
 else {
     alert("Month lo undedhe 30 days 🙄... Nuvu out of range estav endhi ra 😒 anaconda mokapoda 😡")
 }
+}
